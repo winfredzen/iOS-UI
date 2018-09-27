@@ -67,6 +67,8 @@
     return view;
 }
 
+#pragma mark - Custom Accessors
+
 - (UIScrollView *)scrollView
 {
     if (!_scrollView) {
