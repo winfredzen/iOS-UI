@@ -67,3 +67,5 @@ func presentationController(forPresented: UIViewController, presenting: UIViewCo
 
 1.[UIPresentationController Tutorial: Getting Started](https://www.raywenderlich.com/915-uipresentationcontroller-tutorial-getting-started)
 
+![效果1](https://github.com/winfredzen/iOS-UI/blob/master/images/007.gif)
+
