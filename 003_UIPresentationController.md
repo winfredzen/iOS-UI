@@ -69,3 +69,7 @@ func presentationController(forPresented: UIViewController, presenting: UIViewCo
 
 ![效果1](https://github.com/winfredzen/iOS-UI/blob/master/images/007.gif)
 
+2.[THE ROLE OF THE PRESENTATION CONTROLLER](https://www.shinobicontrols.com/blog/ios8-day-by-day-day-24-presentation-controllers/)
+
+![效果1](https://github.com/winfredzen/iOS-UI/blob/master/images/008.gif)
+
