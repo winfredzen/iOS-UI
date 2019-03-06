@@ -21,6 +21,8 @@
 
 ## 响应Size Class改变
 
+各种设备的Size Class可参考:[Adaptivity and Layout](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/adaptivity-and-layout/)
+
 
 
 ## 继承
@@ -72,4 +74,3 @@ func presentationController(forPresented: UIViewController, presenting: UIViewCo
 2.[THE ROLE OF THE PRESENTATION CONTROLLER](https://www.shinobicontrols.com/blog/ios8-day-by-day-day-24-presentation-controllers/)
 
 ![效果1](https://github.com/winfredzen/iOS-UI/blob/master/images/008.gif)
-
